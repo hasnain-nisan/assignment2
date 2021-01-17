@@ -1,0 +1,4 @@
+Stash act like a temporary memory. To switch over different branches one must have to commit or stash the working state.
+To create a stash type "git stash"
+To bring back the stash state type "git pop".
+Successfully performed stash process.
