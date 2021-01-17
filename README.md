@@ -6,3 +6,5 @@ At first I created a local repository. With two file called git_github_advance a
 Then created 5 branches named branch1, branch2, branch3, branch4, branch5 containing a individual text file.
 
 Then merge branch4 and branch5 to master.
+
+Performed git stash in branch3 on git_stash.txt file.
