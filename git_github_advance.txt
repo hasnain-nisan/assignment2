@@ -1,0 +1,10 @@
+We will learn about some advanced concept in git abd github.
+Those concepts are,
+
+1. Git branch
+2. Git merge
+3. Merge conflict
+4. Git stash
+5. Github issues
+6. Github project
+7. Pull request
